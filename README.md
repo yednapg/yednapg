@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a 15 y/o High School Student at Tagore Senior Secondary School and a Hacker. I spend most of my time thinking about making something creative with Machine Learning & Web. I have my [Blog](https://yednapg.github.io/blog) where I write about radom thing that I create or explore. You can Contact me through [E-Mail](yednapg@gmail.com) or DM me on [Twitter](https://twitter.com/yednapg)! Be nice, and I promise I'll get back to you.
+I am a 15 y/o High School Student at Tagore Senior Secondary School and a Hacker. I spend most of my time thinking about making something creative with Machine Learning & Web. I have my [Blog](https://yednapg.github.io/blog) where I write about radom thing that I create or explore. You can Contact me through [E-Mail](mailto:yednapg@gmail.com) or DM me on [Twitter](https://twitter.com/yednapg)! Be nice, and I promise I'll get back to you.
 
-You can find me on the Internet by [@](https://www.google.com/search?q=%40), I care deeply about the Worlds Climatic change and solving daily life problems using Artificial Intelligence. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
+You can find me on the Internet by [@yednapg](https://www.google.com/search?q=yednapg), I care deeply about the Worlds Climatic change and solving daily life problems using Artificial Intelligence. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
 
 
 **CERTIFICATIONS**
