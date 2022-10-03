@@ -4,6 +4,7 @@ I am a 15 y/o High School Student at Tagore Senior Secondary School and a Hacker
 
 You can find me on the Internet by [@yednapg](https://www.google.com/search?q=yednapg), I care deeply about the Worlds Climatic change and solving daily life problems using Artificial Intelligence. I find joy in ambiguity and feel more engaged when working on problems that can be solved by mainly exploring the web or reading a book.
 
+📫 You can find more about me on [Twitter](https://twitter.com/yednapg) and [LinkedIn](https://linkedin.com/in/yednapg).
 
 **CERTIFICATIONS**
 
@@ -21,4 +22,11 @@ You can find me on the Internet by [@yednapg](https://www.google.com/search?q=ye
 - I've given a Special Mention at IMS Model United Nations Conference.
 - I have a beautiful family. For sure my best accomplishment by far.
 
-📫 You can find me on [Twitter](https://twitter.com/yednapg) and [LinkedIn](https://linkedin.com/in/yednapg).
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
+  <br>
+    <p align="center">
+    <img width=40.2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=yednapg&layout=compact&hide=shell">
+    <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=yednapg">
+    </p>
+</details>
