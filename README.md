@@ -18,7 +18,7 @@ You can find me on the Internet by [@yednapg](https://www.google.com/search?q=ye
 - I've won Major League Hacking Track at Hack the Mountains 3.0 Hackathon.
 - I've been invited to speak at Python Italia International Conference on Python 3.10 with an 800€ Grant Including Travel and Accommodation.
 - I've been invited to speak at the codebar Festival 2022 and receive a speaker grant of 150€.
-- 4 Start in Python at HackerRank (in progress)
+- 4 Starr in Python at HackerRank (in progress)
 - I've given a Special Mention at IMS Model United Nations Conference.
 - I have a beautiful family. For sure my best accomplishment by far.
 
