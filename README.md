@@ -1,5 +1,6 @@
 # 🎒 🚴 🌿
-![PyCon Italia](https://https://twitter.com/yednapg/header_photo)
+
+![PyCon Italia]([https://twitter.com/yednapg/header_photo](https://pbs.twimg.com/profile_banners/1325817213773701120/1674567143/1500x500)
 
 📸 PyCon Italia'22, Florence, Italy
 
