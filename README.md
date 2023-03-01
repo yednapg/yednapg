@@ -1,10 +1,6 @@
-# 🎒 🚴 🌿
+<!--  # 🎒 🚴 🌿
 
-![PyCon Italia](https://pbs.twimg.com/profile_banners/1325817213773701120/1674646205/1500x500)
-
-📸 PyCon Italia'22, Florence, Italy
-
-<!-- <details>
+<details>
   <summary>📊 <b><i>GitHub Stats</i></b></summary>
   <br>
     <p align="center">
